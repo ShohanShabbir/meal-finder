@@ -1,6 +1,5 @@
 const search = document.getElementById('search'),
     submit = document.getElementById('submit'),
-    random = document.getElementById('random'),
     mealsElement = document.getElementById('meals'),
     resultHeading = document.getElementById('result-heading'),
     singleMealElement = document.getElementById('single-meal');
